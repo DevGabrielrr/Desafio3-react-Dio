@@ -1,27 +1,43 @@
-Desafio 3 trilha em react Dio
-o objetivo foi clonar a página de formulário da própria DIO, que inclui as telas de cadastro e login. Utilizando React e Styled Components, foi possível criar uma interface moderna e responsiva, onde estilizamos cada elemento diretamente dentro dos componentes, promovendo uma separação mais organizada e reutilizável dos estilos. O projeto envolveu a construção da página inicial, que contém os formulários de criar conta e entrar na conta, oferecendo uma experiência visual e funcional similar à plataforma original da DIO.
+# Desafio 3 trilha em react Dio
 
-Tecnologias Utilizadas
-React: ^17
+O objetivo foi clonar a página de formulário da própria DIO, que inclui as telas de cadastro e login. Utilizando React e Styled Components, foi possível criar uma interface moderna e responsiva, onde estilizamos cada elemento diretamente dentro dos componentes, promovendo uma separação mais organizada e reutilizável dos estilos. O projeto envolveu a construção da página inicial, que contém os formulários de criar conta e entrar na conta, oferecendo uma experiência visual e funcional similar à plataforma original da DIO.
 
-Aprendizado
-Styled-components;
+### Tecnologias Utilizadas
 
-📦 Bibliotecas
+- React: ^17
+
+### Aprendizado
+
+- Styled-components;
+
+### 📦 Bibliotecas
+
 ⬇️ Permite que você escreva CSS dentro dos seus componentes React usando uma sintaxe de template literals. Em vez de criar arquivos CSS separados ou usar classes CSS tradicionais.
 
+```
 npm i styled-components
+```
+
+```
 npm i @types/styled-components -D
+```
 
-Como Executar o Projeto
-Clone o repositório:
+### Como Executar o Projeto
 
-https://github.com/DevGabrielrr/Desafio3-react-Dio.gitNavegue até o diretório do projeto:
+1. Clone o repositório:
 
-cd nome-do-repositorio
-Atualize o projeto, Em seu terminal e na pasta do projeto
+```bash
+https://github.com/DevGabrielrr/Desafio3-react-Dio.git
+```
 
-npm install
-Rodar o projeto
+2. Navegue até o diretório do projeto:
 
-npm run dev
+```bash
+  npm install
+```
+
+3. Rodar o projeto
+
+   ```bash
+   npm run dev
+   ```
