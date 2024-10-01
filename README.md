@@ -2,6 +2,9 @@
 
 O objetivo foi clonar a página de formulário da própria DIO, que inclui as telas de cadastro e login. Utilizando React e Styled Components, foi possível criar uma interface moderna e responsiva, onde estilizamos cada elemento diretamente dentro dos componentes, promovendo uma separação mais organizada e reutilizável dos estilos. O projeto envolveu a construção da página inicial, que contém os formulários de criar conta e entrar na conta, oferecendo uma experiência visual e funcional similar à plataforma original da DIO.
 
+https://github.com/user-attachments/assets/de14fd8a-5a22-44a2-8fa4-9119b2589de5
+
+
 ### Tecnologias Utilizadas
 
 - React: ^17
